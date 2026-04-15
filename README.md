@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cristian%20Sanchez&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descSize=17" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Cristian%20SB&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Fullstack%20Developer%20%7C%20Data%20Enthusiast%20%7C%20Systems%20Engineering%20Student&descAlignY=58&descSize=17" width="100%"/>
 </div>
 
 <div align="center">
@@ -83,7 +83,6 @@ Valoro el trabajo en equipo como un elemento clave para alcanzar buenos resultad
 
 ---
 
-<img 
-  src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" 
-  width="100%"
-/>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Giornokhro/Giornokhro/main/cris.png" width="100%"/>
+</div>
